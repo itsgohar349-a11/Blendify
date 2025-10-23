@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Fusion",
+  "description": "Combine a photo of a person with an object image. The AI naturally integrates the object, making it look as if the person is holding or interacting with it. Add an optional prompt for creative control.",
+  "requestFramePermissions": []
+}
